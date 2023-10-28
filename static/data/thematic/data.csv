@@ -1,42 +1,79 @@
 country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
-Albania,AL,1,TRUE,Candidate country since 2003,,,,,,,,
-Austria,AT,0,FALSE,,,,,,,,,
-Belgium,BE,0,FALSE,,,,,,,,,
-Bulgaria,BG,0,FALSE,,,,,,,,,
-Bosnia and Herzegovina,BA,1,TRUE,,,,,,,,,
-Switzerland,CH,0,FALSE,,,,,,,,,
-Cyprus,CY,0,FALSE,,,,,,,,,
-Czechia,CZ,0,FALSE,,,,,,,,,
-Germany,DE,null,FALSE,,,,,,,,,
-Denmark,DK,0,FALSE,,,,,,,,,
-Estonia,EE,0,FALSE,,,,,,,,,
-Georgia,GE,1,FALSE,,,,,,,,,
-Greece,EL,0,FALSE,,,,,,,,,
-Spain,ES,0,FALSE,,,,,,,,,
-Finland,FI,0,FALSE,,,,,,,,,
-France,FR,0,FALSE,,,,,,,,,
-Croatia,HR,0,FALSE,,,,,,,,,
-Hungary,HU,0,FALSE,,,,,,,,,
-Ireland,IE,0,FALSE,,,,,,,,,
-Iceland,IS,0,FALSE,,,,,,,,,
-Italy,IT,0,FALSE,,,,,,,,,
-Liechtenstein,LI,0,FALSE,,,,,,,,,
-Lithuania,LT,0,FALSE,,,,,,,,,
-Luxembourg,LU,0,FALSE,,,,,,,,,
-Latvia,LV,0,FALSE,,,,,,,,,
-Montenegro,ME,1,TRUE,Candidate country since 2010,,,,,,,,
-North Macedonia,MK,1,TRUE,Candidate country since 2005,,,,,,,,
-Malta,MT,0,FALSE,,,,,,,,,
-Moldova,MD,1,FALSE,,,,,,,,,
-Netherlands,NL,0,FALSE,,,,,,,,,
-Norway,NO,0,FALSE,,,,,,,,,
-Poland,PL,0,FALSE,,,,,,,,,
-Portugal,PT,0,FALSE,,,,,,,,,
-Romania,RO,0,FALSE,,,,,,,,,
-Serbia,RS,1,TRUE,Candidate country since 2003,,,,,,,,
-Sweden,SE,0,FALSE,,,,,,,,,
-Slovenia,SI,0,FALSE,,,,,,,,,
-Slovakia,SK,0,FALSE,,,,,,,,,
-Turkey,TR,1,FALSE,,,,,,,,,
+Albania,AL,null,FALSE,,,,,,,,,
+Austria,AT,0.22,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Belgium,BE,0.26,TRUE,"Medium Score = 44%
+Low Score = 30%",,,,,,,,
+Bulgaria,BG,0.26,TRUE,"Medium Score = 54%
+Low Score = 20%",,,,,,,,
+Bosnia and Herzegovina,BA,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Switzerland,CH,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Cyprus,CY,0.3,TRUE,"Medium Score = 51%
+Low Score = 19%",,,,,,,,
+Czechia,CZ,0.21,TRUE,"Medium Score = 54%
+Low Score = 25%",,,,,,,,
+Germany,DE,0.22,TRUE,"Medium Score = 46%
+Low Score = 32%",,,,,,,,
+Denmark,DK,0.15,TRUE,"Medium Score = 45%
+Low Score = 40%",,,,,,,,
+Estonia,EE,0.13,TRUE,"Medium Score = 47%
+Low Score = 39%",,,,,,,,
+Georgia,GE,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Greece,EL,0.29,TRUE,"Medium Score = 52%
+Low Score = 19%",,,,,,,,
+Spain,ES,0.27,TRUE,"Medium Score = 54%
+Low Score = 19%",,,,,,,,
+Finland,FI,0.11,TRUE,"Medium Score = 49%
+Low Score = 40%",,,,,,,,
+France,FR,0.25,TRUE,"Medium Score = 51%
+Low Score = 25%",,,,,,,,
+Croatia,HR,0.22,TRUE,"Medium Score = 55%
+Low Score = 24%",,,,,,,,
+Hungary,HU,0.17,TRUE,"Medium Score = 61%
+Low Score = 22%",,,,,,,,
+Ireland,IE,0.22,TRUE,"Medium Score = 47%
+Low Score = 31%",,,,,,,,
+Iceland,IS,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Italy,IT,0.26,TRUE,"Medium Score = 49%
+Low Score = 25%",,,,,,,,
+Liechtenstein,LI,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Lithuania,LT,0.21,TRUE,"Medium Score = 54%
+Low Score = 25%",,,,,,,,
+Luxembourg,LU,0.24,TRUE,"Medium Score = 43%
+Low Score = 33%",,,,,,,,
+Latvia,LV,0.25,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Montenegro,ME,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+North Macedonia,MK,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Malta,MT,0.19,TRUE,"Medium Score = 54%
+Low Score = 26%",,,,,,,,
+Moldova,MD,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Netherlands,NL,0.18,TRUE,"Medium Score = 39%
+Low Score = 43%",,,,,,,,
+Norway,NO,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Poland,PL,0.25,TRUE,"Medium Score = 55%
+Low Score = 20%",,,,,,,,
+Portugal,PT,0.28,TRUE,"Medium Score = 56%
+Low Score = 16%",,,,,,,,
+Romania,RO,0.22,TRUE,"Medium Score = 57%
+Low Score = 13%",,,,,,,,
+Serbia,RS,null,TRUE,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Sweden,SE,0.19,TRUE,"Medium Score = 47%
+Low Score = 34%",,,,,,,,
+Slovenia,SI,0.15,TRUE,"Medium Score = 49%
+Low Score = 36%",,,,,,,,
+Slovakia,SK,0.2,TRUE,"Medium Score = 53%
+Low Score = 27%",,,,,,,,
+Turkey,TR,null,FALSE,,,,,,,,,
 United Kingdom,UK,null,FALSE,,,,,,,,,
-Ukraine,UA,1,TRUE,Candidate country since 2003,,,,,,,,
+Ukraine,UA,null,FALSE,,,,,,,,,
