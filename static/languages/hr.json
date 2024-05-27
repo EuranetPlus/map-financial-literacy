@@ -1,8 +1,8 @@
 {
-  "heading": "Koliko su građani EU financijski potkovani?",
-  "subheading": "Razine financijske pismenosti u EU-u otkrivaju velike razlike među državama članicama",
+  "heading": "Koliko su građani EU financijski pismeni?",
+  "subheading": "Razina financijske pismenosti građana EU općenito je relativno niska, a samo 18% građana EU ima visoku razinu financijske pismenosti. Brojke se znatno razlikuju od jedne do druge države članice.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "imaju visoku ocjenu financijskog znanja",
+  "tooltip1": "imaju visoku razinu financijskog znanja",
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar 2953",
   "textNoteDescription": "Bilješka",
